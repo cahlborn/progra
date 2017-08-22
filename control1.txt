@@ -1,3 +1,10 @@
+CONTROL 1
+
+Resolver los problemas propuestos, utilizando lo aprendido en clases. El codigo debe ser enviado por correo electronico al mail
+cahlborn@live.cl el asunto debe ser [PROGRA-2017]CONTROL1 apellido nombre (correos que no cumplan el formato no seran revisados)
+tiene hasta las 22:59 del martes 22 de agosto para enviar su respuesta.
+
+
 Pregunta 1.-  Generar el código necesario para que el usuario ingrese su nombre, apellido, el nombre del curso y 4 notas (10 a 70) posteriormente que entregue como resultado un texto con la siguiente frase:
 
 [APELLIDO][NOMBRE], su promedio para el curso de [NOMBRE DEL CURSO] es de [el promedio de las 4 notas]
